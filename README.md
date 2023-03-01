@@ -12,7 +12,7 @@ Aqui você vai encontrar todos os desafios dos bootcamps que realizei na DIO.
 <p align="center">
 :white_check_mark: Prepare-se Para a Jornada </br>
 :white_check_mark: Princípios de Desenvolvimento de Software </br>
-:negative_squared_cross_mark: Conhecendo a Linguagem de Programação Java </br>
+:white_check_mark: Conhecendo a Linguagem de Programação Java </br>
 :negative_squared_cross_mark: Dominando Algoritmos Básicos com Desafios de Código Java </br>
 :negative_squared_cross_mark: Programação Orientada a Objetos com Java </br>
 :negative_squared_cross_mark: Trabalhando com Banco de Dados SQL e NoSQL </br>
